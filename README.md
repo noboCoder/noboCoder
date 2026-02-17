@@ -1,4 +1,4 @@
-## Hi there 👋
+## A litle bit about me👋
 
 Hello, despite my name being "noboCoder" i am still not close to being realy good at it, but i am still lerning.
 
