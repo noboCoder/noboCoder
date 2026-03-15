@@ -1,6 +1,6 @@
 ## A litle bit about me👋
 
-Hello, despite my name being "noboCoder" i am still not close to being realy good at it, but i am still lerning.
+Hello, despite my name being "noboCoder" i am still not close to being really good at it, but i am still lerning.
 
 The main languages i know is c# and python.
 
